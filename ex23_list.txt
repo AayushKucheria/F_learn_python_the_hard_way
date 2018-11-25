@@ -1,0 +1,13 @@
+sys library - the most basic library in python
+
+main function - there is no set main function in python like Java/c++. We can put code even outside functions. Thus, the main is just a conventional name in python unlike in java where it's actually a keyword
+
+.readline() - reads an entire line from the file i.e. until a newline character is reached
+
+line.strip() - removes all whitespaces and tabs at the beginning and ending
+
+.encode(encoding, errors=errors) - encodes the string specified through the encoding given
+
+.decode(encoding, errors=errors)
+
+open("languages.txt", encoding="utf-8")

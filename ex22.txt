@@ -1,0 +1,24 @@
+List of words i've learnt till now in python
+
+print
+string
+variable
+.format
+\n
+\t
+input()
+from
+sys
+import
+argv
+script
+f
+txt.read()
+txt.close()
+txt.write()
+.truncate()
+os.path
+exists
+def
+.seek()
+return
